@@ -6,11 +6,17 @@ When a model translates out of English and then back to English, how much meanin
 
 ![Overall Leaderboard (Ensemble, zoom)](images/translation_leaderboard_ensemble_zoom.png)
 
+Ensemble aggregates across judges per item, then averages across all items (all languages); the zoom view overlays µ±3·SEM bands.
+
 The chart ranks models by average round‑trip score (higher is better).
 
-Overall winner share across all languages
+Overall winner share across all languages:
 
 ![Overall Winner Pie](images/translation_winner_pie.png)
+
+## Methods in Brief
+
+10 languages × 200 sources per language (2000 items). Each model translates every item (EN→LANG→EN). Five judges score each item; ensemble averages per item across judges, then across items. Eight models → 16,000 model×item pairs and 80,000 total judgments.
 
 ### Top Models (snapshot)
 
@@ -38,7 +44,7 @@ Full tables for each language are generated under `reports/`. See the index: `re
 
 ### Per‑language charts — zoomed leaderboards + strip plots
 
-Arabic — leaderboard (zoom) and strip plot
+#### Arabic
 
 ![Arabic Leaderboard (zoom)](images/translation_leaderboard_lang_ar_zoom.png)
 
@@ -54,7 +60,7 @@ Arabic — leaderboard (zoom) and strip plot
 | 2 | Claude Opus 4.1 (no reasoning) | 8.616 | 5 |
 | 3 | Gemini 2.5 Pro | 8.566 | 5 |
 
-Chinese — leaderboard (zoom) and strip plot
+#### Chinese
 
 ![Chinese Leaderboard (zoom)](images/translation_leaderboard_lang_zh_zoom.png)
 
@@ -70,7 +76,7 @@ Chinese — leaderboard (zoom) and strip plot
 | 2 | Claude Opus 4.1 (no reasoning) | 8.651 | 5 |
 | 3 | Grok 4 | 8.634 | 5 |
 
-Spanish — leaderboard (zoom) and strip plot
+#### Spanish
 
 ![Spanish Leaderboard (zoom)](images/translation_leaderboard_lang_es_zoom.png)
 
@@ -86,7 +92,7 @@ Spanish — leaderboard (zoom) and strip plot
 | 2 | Claude Opus 4.1 (no reasoning) | 8.743 | 5 |
 | 3 | Grok 4 | 8.680 | 5 |
 
-Hindi — leaderboard (zoom) and strip plot
+#### Hindi
 
 ![Hindi Leaderboard (zoom)](images/translation_leaderboard_lang_hi_zoom.png)
 
@@ -102,7 +108,7 @@ Hindi — leaderboard (zoom) and strip plot
 | 2 | Claude Opus 4.1 (no reasoning) | 8.676 | 5 |
 | 3 | Gemini 2.5 Pro | 8.579 | 5 |
 
-Russian — leaderboard (zoom) and strip plot
+#### Russian
 
 ![Russian Leaderboard (zoom)](images/translation_leaderboard_lang_ru_zoom.png)
 
@@ -118,7 +124,7 @@ Russian — leaderboard (zoom) and strip plot
 | 2 | Claude Opus 4.1 (no reasoning) | 8.647 | 5 |
 | 3 | Grok 4 | 8.635 | 5 |
 
-Japanese — leaderboard (zoom) and strip plot
+#### Japanese
 
 ![Japanese Leaderboard (zoom)](images/translation_leaderboard_lang_ja_zoom.png)
 
@@ -134,7 +140,7 @@ Japanese — leaderboard (zoom) and strip plot
 | 2 | GPT-5 (medium reasoning) | 8.678 | 5 |
 | 3 | Claude Opus 4.1 (no reasoning) | 8.670 | 5 |
 
-Korean — leaderboard (zoom) and strip plot
+#### Korean
 
 ![Korean Leaderboard (zoom)](images/translation_leaderboard_lang_ko_zoom.png)
 
@@ -150,7 +156,7 @@ Korean — leaderboard (zoom) and strip plot
 | 2 | Grok 4 | 8.614 | 5 |
 | 3 | Claude Opus 4.1 (no reasoning) | 8.612 | 5 |
 
-Polish — leaderboard (zoom) and strip plot
+#### Polish
 
 ![Polish Leaderboard (zoom)](images/translation_leaderboard_lang_pl_zoom.png)
 
@@ -166,7 +172,7 @@ Polish — leaderboard (zoom) and strip plot
 | 2 | Claude Opus 4.1 (no reasoning) | 8.637 | 5 |
 | 3 | Grok 4 | 8.636 | 5 |
 
-Turkish — leaderboard (zoom) and strip plot
+#### Turkish
 
 ![Turkish Leaderboard (zoom)](images/translation_leaderboard_lang_tr_zoom.png)
 
@@ -182,7 +188,7 @@ Turkish — leaderboard (zoom) and strip plot
 | 2 | Grok 4 | 8.605 | 5 |
 | 3 | Claude Opus 4.1 (no reasoning) | 8.578 | 5 |
 
-Swahili — leaderboard (zoom) and strip plot
+#### Swahili
 
 ![Swahili Leaderboard (zoom)](images/translation_leaderboard_lang_sw_zoom.png)
 
@@ -204,16 +210,18 @@ Swahili — leaderboard (zoom) and strip plot
 
 Controls for language difficulty/mix by z-scoring within each language, then averaging per model.
 
+Interpretation: 0 = language mean; >0 above‑language average; <0 below.
+
 ## Reliability and Uncertainty
 
 ![Judge Agreement (Pearson)](images/judge_grader_correlation_pearson.png)
 
-- Multi‑judge runs add error bars in the leaderboard and a grader‑agreement heatmap. Where judges disagree, treat small rank gaps as ties.
+- Multi‑judge runs add error bars in the leaderboard and a judge‑agreement heatmap. Where judges disagree, treat small rank gaps as ties.
 - We compute averages as “mean of per‑sample means,” optionally averaged across judges, so no single judge or language dominates.
 
-Also useful for sanity‑checking graders vs. translators (normalized by grader):
+Also useful for sanity‑checking judges vs. translators (normalized by judge):
 
-![Grader × LLM — Normalized Means](images/grader_vs_llm_normalized_means.png)
+![Judge × LLM — Normalized Means](images/grader_vs_llm_normalized_means.png)
 
 ## Failure Rationales
 
@@ -222,7 +230,7 @@ We summarize judge rationales into a lightweight taxonomy and synthesize per‑m
 - Taxonomy index: `reports/error_taxonomy.md`
 - Failure models (LLM‑summarized): `reports/failure_models/<translator>/<lang>.md`
 
-Taxonomy snapshot (gpt‑5‑medium — Chinese):
+Taxonomy snapshot (GPT‑5 Medium — Chinese):
 
 | Tag | Count | Share |
 |-----|------:|------:|
@@ -240,16 +248,16 @@ Failure‑model excerpt (GPT‑5 — Chinese):
 
 Example rationale quotes (selected across models/languages):
 
-- Model deepseek‑reasoner — Arabic: “Multiple critical meaning reversals (e.g., "nods" becomes "shakes his head") make key character interactions nonsensical and contradict the original narrative.”
-- Model deepseek‑reasoner — Arabic: “The back‑translation fundamentally misidentifies the "wheeled lunar rover" as a "winged asteroid probe," a major factual error, though most other technical details are preserved.”
-- Model deepseek‑reasoner — Arabic: “Contains untranslated words and major meaning errors ("metronome" to "mazurka," "on my knees" to "on her lap"), corrupting key images and memories in the original narrative.”
-- Model deepseek‑reasoner — Arabic: “Loses specific football jargon, reverses a key instruction (“jump it” → “jump on him”), and renders the final motivational line nonsensical (“every quick enemy”).”
-- Model qwen‑3‑max‑preview — Chinese: “Several normative shifts (SHOULD→must) and minor terminology changes (“intermediaries”→“middleware”) alter strength of requirements and tone.”
-- Model qwen‑3‑max‑preview — Chinese: “Repeatedly narrows ‘hearing/minute order’ to ‘trial/trial minute,’ altering scope; minor phrasing shifts in examples and directives.”
-- Model qwen‑3‑max‑preview — Chinese: “Specific branding language in the taglines is paraphrased or altered, losing key terms like "Consciously" and the direct "sole/soul" pun.”
-- Model qwen‑3‑max‑preview — Chinese: “Recurring shifts from ‘late afternoon/dusk’ to ‘evening/twilight,’ and sign wording changes alter motifs, specificity, and tone.”
-- Model qwen‑3‑max‑preview — Arabic: “The meaning is preserved well, but there are many lexical substitutions and a few minor shifts, like changing the partner's pronoun from gender‑neutral "their" to masculine "his".”
-- Model qwen‑3‑max‑preview — Arabic: “The translation alters several specific details, such as 'Good afternoon' to 'Good evening,' 'bodega' to 'small shop,' and 'business partner' to 'coworker,' losing some nuance.”
+- Model DeepSeek Reasoner — Arabic: “Multiple critical meaning reversals (e.g., "nods" becomes "shakes his head") make key character interactions nonsensical and contradict the original narrative.”
+- Model DeepSeek Reasoner — Arabic: “The back‑translation fundamentally misidentifies the "wheeled lunar rover" as a "winged asteroid probe," a major factual error, though most other technical details are preserved.”
+- Model DeepSeek Reasoner — Arabic: “Contains untranslated words and major meaning errors ("metronome" to "mazurka," "on my knees" to "on her lap"), corrupting key images and memories in the original narrative.”
+- Model DeepSeek Reasoner — Arabic: “Loses specific football jargon, reverses a key instruction (“jump it” → “jump on him”), and renders the final motivational line nonsensical (“every quick enemy”).”
+- Model Qwen 3 Max Preview — Chinese: “Several normative shifts (SHOULD→must) and minor terminology changes (“intermediaries”→“middleware”) alter strength of requirements and tone.”
+- Model Qwen 3 Max Preview — Chinese: “Repeatedly narrows ‘hearing/minute order’ to ‘trial/trial minute,’ altering scope; minor phrasing shifts in examples and directives.”
+- Model Qwen 3 Max Preview — Chinese: “Specific branding language in the taglines is paraphrased or altered, losing key terms like "Consciously" and the direct "sole/soul" pun.”
+- Model Qwen 3 Max Preview — Chinese: “Recurring shifts from ‘late afternoon/dusk’ to ‘evening/twilight,’ and sign wording changes alter motifs, specificity, and tone.”
+- Model Qwen 3 Max Preview — Arabic: “The meaning is preserved well, but there are many lexical substitutions and a few minor shifts, like changing the partner's pronoun from gender‑neutral "their" to masculine "his".”
+- Model Qwen 3 Max Preview — Arabic: “The translation alters several specific details, such as 'Good afternoon' to 'Good evening,' 'bodega' to 'small shop,' and 'business partner' to 'coworker,' losing some nuance.”
 
 ## What’s Measured
 
@@ -260,7 +268,7 @@ Example rationale quotes (selected across models/languages):
 ## How Scoring Works
 
 - Judge rubric: compares original vs. back‑translation on a 0–10 scale.
-- Anchors: 10.0 ≈ indistinguishable; 7.0 ≈ minor losses; 5.0 ≈ noticeable omissions/additions or tone shift; 0.0 ≈ unrelated.
+- Anchors: 10.0 ≈ indistinguishable; 7.0 ≈ minor losses; 5.0 ≈ noticeable omissions/additions or tone/register shifts; 0.0 ≈ unrelated.
 - Penalties: invented/missing content, tone/register drift, meta‑disclaimers. Trivial mechanics (e.g., punctuation) don’t matter if meaning is intact.
 - Aggregation: per‑item means (optionally across multiple judges), then averaged across items and languages.
 
@@ -308,7 +316,7 @@ Each dot = per‑story mean across judges; colors encode language; models on x�
 ---
 
 
-## Updates 
+## Updates
 - Sep 15, 2025: Initial version.
 
-- Follow [@lechmazur](https://x.com/LechMazur) on X for other upcoming benchmarks and more.
+Follow [@lechmazur](https://x.com/LechMazur) on X for other upcoming benchmarks and more.
