@@ -4,9 +4,9 @@ When a model translates out of English and then back to English, how much meanin
 
 ## Key Results
 
-![Overall Leaderboard](images/translation_leaderboard.png)
+![Overall Leaderboard (Ensemble, zoom)](images/translation_leaderboard_ensemble_zoom.png)
 
-The chart ranks models by average round‑trip score (higher is better). Small differences under ~0.3 can be noise; look for consistent gaps ≥ 0.5, especially across languages.
+The chart ranks models by average round‑trip score (higher is better). 
 
 ### Top Models (snapshot)
 
@@ -26,40 +26,73 @@ The chart ranks models by average round‑trip score (higher is better). Small d
 ![Normalized Heatmap (z-scored within each language)](images/translation_leaderboard_heatmap_normalized.png)
 
 - Z-scored per language so each column shows relative strength vs. peers (0 = average for that language).
-- Highlights “where a model shines” without language-mix bias; prefer this for comparisons.
+- Prefer this normalized view; it controls for language mix and difficulty.
 
-Raw means for reference:
-
-![Mean Score by Language (Raw Heatmap)](images/translation_leaderboard_heatmap.png)
-
-- Rows are models; columns are languages. Brighter cells indicate higher raw mean score in that language.
-- Raw averages can mask relative strengths; use alongside the normalized view above.
-
-You can also browse per‑language leaderboards:
+Per‑language leaderboards (zoom) and distributions (strip plots):
 
 <details>
-  <summary>Per‑language charts (click to expand)</summary>
+  <summary>Per‑language charts — zoomed leaderboards + strip plots (click to expand)</summary>
 
   
-  ![Arabic](images/translation_leaderboard_lang_ar.png)
+  Arabic — leaderboard (zoom) and strip plot
   
-  ![Chinese](images/translation_leaderboard_lang_zh.png)
+  ![Arabic Leaderboard (zoom)](images/translation_leaderboard_lang_ar_zoom.png)
   
-  ![Spanish](images/translation_leaderboard_lang_es.png)
+  ![Arabic Strip](images/translation_strip_lang_ar.png)
   
-  ![Hindi](images/translation_leaderboard_lang_hi.png)
+  Chinese — leaderboard (zoom) and strip plot
   
-  ![Russian](images/translation_leaderboard_lang_ru.png)
+  ![Chinese Leaderboard (zoom)](images/translation_leaderboard_lang_zh_zoom.png)
   
-  ![Japanese](images/translation_leaderboard_lang_ja.png)
+  ![Chinese Strip](images/translation_strip_lang_zh.png)
   
-  ![Korean](images/translation_leaderboard_lang_ko.png)
+  Spanish — leaderboard (zoom) and strip plot
   
-  ![Polish](images/translation_leaderboard_lang_pl.png)
+  ![Spanish Leaderboard (zoom)](images/translation_leaderboard_lang_es_zoom.png)
   
-  ![Turkish](images/translation_leaderboard_lang_tr.png)
+  ![Spanish Strip](images/translation_strip_lang_es.png)
   
-  ![Swahili](images/translation_leaderboard_lang_sw.png)
+  Hindi — leaderboard (zoom) and strip plot
+  
+  ![Hindi Leaderboard (zoom)](images/translation_leaderboard_lang_hi_zoom.png)
+  
+  ![Hindi Strip](images/translation_strip_lang_hi.png)
+  
+  Russian — leaderboard (zoom) and strip plot
+  
+  ![Russian Leaderboard (zoom)](images/translation_leaderboard_lang_ru_zoom.png)
+  
+  ![Russian Strip](images/translation_strip_lang_ru.png)
+  
+  Japanese — leaderboard (zoom) and strip plot
+  
+  ![Japanese Leaderboard (zoom)](images/translation_leaderboard_lang_ja_zoom.png)
+  
+  ![Japanese Strip](images/translation_strip_lang_ja.png)
+  
+  Korean — leaderboard (zoom) and strip plot
+  
+  ![Korean Leaderboard (zoom)](images/translation_leaderboard_lang_ko_zoom.png)
+  
+  ![Korean Strip](images/translation_strip_lang_ko.png)
+  
+  Polish — leaderboard (zoom) and strip plot
+  
+  ![Polish Leaderboard (zoom)](images/translation_leaderboard_lang_pl_zoom.png)
+  
+  ![Polish Strip](images/translation_strip_lang_pl.png)
+  
+  Turkish — leaderboard (zoom) and strip plot
+  
+  ![Turkish Leaderboard (zoom)](images/translation_leaderboard_lang_tr_zoom.png)
+  
+  ![Turkish Strip](images/translation_strip_lang_tr.png)
+  
+  Swahili — leaderboard (zoom) and strip plot
+  
+  ![Swahili Leaderboard (zoom)](images/translation_leaderboard_lang_sw_zoom.png)
+  
+  ![Swahili Strip](images/translation_strip_lang_sw.png)
 </details>
 
 ### Per‑Language Leaderboards (Tables)
@@ -149,17 +182,23 @@ Winner distribution (overall #1 finishes across all items):
 
 ![Overall Winner Share](images/translation_winner_pie.png)
 
-Per‑language score distributions (each dot = judge’s per‑sample mean):
-
-![Strip Plot — Spanish](images/translation_strip_lang_es.png)
+Per‑language score distributions are included above (strip plots for all languages).
 
 Language comparison aggregates:
 
 <!-- Top‑3 removed: biased and redundant; prefer all‑models and normalized heatmaps. -->
 
-Grouped bars by grader (disagreement patterns):
+All‑Models Mean by Language (zoom):
 
-![Grader × LLM — Grouped Bars](images/06_grader_llm_grouped_bar.png)
+![All‑Models Mean by Language (zoom)](images/language_comparison_all_zoom.png)
+
+Per‑language mean of per‑model means (equal weight per model). Error shading indicates uncertainty.
+
+Strip Plot — Languages Colored:
+
+![Strip Plot — Languages Colored](images/translation_strip_languages_colored.png)
+
+Each dot = per‑story mean across judges; colors encode language; models on x‑axis with light jitter.
 
 
 ## Other multi-agent benchmarks
