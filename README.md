@@ -274,32 +274,6 @@ Example rationale quotes (selected across models/languages):
 
 ## Bonus Views
 
-Winner distribution (overall #1 finishes across all items):
-
-![Overall Winner Share](images/translation_winner_pie.png)
-
-Per‑language winner share (pies):
-
-![Winner Share — Arabic](images/translation_winner_pie_lang_Arabic.png)
-
-![Winner Share — Chinese](images/translation_winner_pie_lang_Chinese.png)
-
-![Winner Share — Hindi](images/translation_winner_pie_lang_Hindi.png)
-
-![Winner Share — Japanese](images/translation_winner_pie_lang_Japanese.png)
-
-![Winner Share — Korean](images/translation_winner_pie_lang_Korean.png)
-
-![Winner Share — Polish](images/translation_winner_pie_lang_Polish.png)
-
-![Winner Share — Russian](images/translation_winner_pie_lang_Russian.png)
-
-![Winner Share — Spanish](images/translation_winner_pie_lang_Spanish.png)
-
-![Winner Share — Swahili](images/translation_winner_pie_lang_Swahili.png)
-
-![Winner Share — Turkish](images/translation_winner_pie_lang_Turkish.png)
-
 Per‑language score distributions are included above (strip plots for all languages).
 
 Language comparison aggregates:
