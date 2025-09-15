@@ -30,92 +30,151 @@ The chart ranks models by average round‑trip score (higher is better).
 
 Per‑language leaderboards (zoom) and distributions (strip plots):
 
-<details>
-  <summary>Per‑language charts — zoomed leaderboards + strip plots (click to expand)</summary>
+### Per‑language charts — zoomed leaderboards + strip plots
 
-  
-  Arabic — leaderboard (zoom) and strip plot
-  
-  ![Arabic Leaderboard (zoom)](images/translation_leaderboard_lang_ar_zoom.png)
-  
-  ![Arabic Strip](images/translation_strip_lang_ar.png)
-  
-  Chinese — leaderboard (zoom) and strip plot
-  
-  ![Chinese Leaderboard (zoom)](images/translation_leaderboard_lang_zh_zoom.png)
-  
-  ![Chinese Strip](images/translation_strip_lang_zh.png)
-  
-  Spanish — leaderboard (zoom) and strip plot
-  
-  ![Spanish Leaderboard (zoom)](images/translation_leaderboard_lang_es_zoom.png)
-  
-  ![Spanish Strip](images/translation_strip_lang_es.png)
-  
-  Hindi — leaderboard (zoom) and strip plot
-  
-  ![Hindi Leaderboard (zoom)](images/translation_leaderboard_lang_hi_zoom.png)
-  
-  ![Hindi Strip](images/translation_strip_lang_hi.png)
-  
-  Russian — leaderboard (zoom) and strip plot
-  
-  ![Russian Leaderboard (zoom)](images/translation_leaderboard_lang_ru_zoom.png)
-  
-  ![Russian Strip](images/translation_strip_lang_ru.png)
-  
-  Japanese — leaderboard (zoom) and strip plot
-  
-  ![Japanese Leaderboard (zoom)](images/translation_leaderboard_lang_ja_zoom.png)
-  
-  ![Japanese Strip](images/translation_strip_lang_ja.png)
-  
-  Korean — leaderboard (zoom) and strip plot
-  
-  ![Korean Leaderboard (zoom)](images/translation_leaderboard_lang_ko_zoom.png)
-  
-  ![Korean Strip](images/translation_strip_lang_ko.png)
-  
-  Polish — leaderboard (zoom) and strip plot
-  
-  ![Polish Leaderboard (zoom)](images/translation_leaderboard_lang_pl_zoom.png)
-  
-  ![Polish Strip](images/translation_strip_lang_pl.png)
-  
-  Turkish — leaderboard (zoom) and strip plot
-  
-  ![Turkish Leaderboard (zoom)](images/translation_leaderboard_lang_tr_zoom.png)
-  
-  ![Turkish Strip](images/translation_strip_lang_tr.png)
-  
-  Swahili — leaderboard (zoom) and strip plot
-  
-  ![Swahili Leaderboard (zoom)](images/translation_leaderboard_lang_sw_zoom.png)
-  
-  ![Swahili Strip](images/translation_strip_lang_sw.png)
-</details>
+Arabic — leaderboard (zoom) and strip plot
+
+![Arabic Leaderboard (zoom)](images/translation_leaderboard_lang_ar_zoom.png)
+
+![Arabic Strip](images/translation_strip_lang_ar.png)
+
+Chinese — leaderboard (zoom) and strip plot
+
+![Chinese Leaderboard (zoom)](images/translation_leaderboard_lang_zh_zoom.png)
+
+![Chinese Strip](images/translation_strip_lang_zh.png)
+
+Spanish — leaderboard (zoom) and strip plot
+
+![Spanish Leaderboard (zoom)](images/translation_leaderboard_lang_es_zoom.png)
+
+![Spanish Strip](images/translation_strip_lang_es.png)
+
+Hindi — leaderboard (zoom) and strip plot
+
+![Hindi Leaderboard (zoom)](images/translation_leaderboard_lang_hi_zoom.png)
+
+![Hindi Strip](images/translation_strip_lang_hi.png)
+
+Russian — leaderboard (zoom) and strip plot
+
+![Russian Leaderboard (zoom)](images/translation_leaderboard_lang_ru_zoom.png)
+
+![Russian Strip](images/translation_strip_lang_ru.png)
+
+Japanese — leaderboard (zoom) and strip plot
+
+![Japanese Leaderboard (zoom)](images/translation_leaderboard_lang_ja_zoom.png)
+
+![Japanese Strip](images/translation_strip_lang_ja.png)
+
+Korean — leaderboard (zoom) and strip plot
+
+![Korean Leaderboard (zoom)](images/translation_leaderboard_lang_ko_zoom.png)
+
+![Korean Strip](images/translation_strip_lang_ko.png)
+
+Polish — leaderboard (zoom) and strip plot
+
+![Polish Leaderboard (zoom)](images/translation_leaderboard_lang_pl_zoom.png)
+
+![Polish Strip](images/translation_strip_lang_pl.png)
+
+Turkish — leaderboard (zoom) and strip plot
+
+![Turkish Leaderboard (zoom)](images/translation_leaderboard_lang_tr_zoom.png)
+
+![Turkish Strip](images/translation_strip_lang_tr.png)
+
+Swahili — leaderboard (zoom) and strip plot
+
+![Swahili Leaderboard (zoom)](images/translation_leaderboard_lang_sw_zoom.png)
+
+![Swahili Strip](images/translation_strip_lang_sw.png)
 
 ### Per‑Language Leaderboards (Tables)
 
 Full tables for each language are generated under `reports/`. See the index: `reports/leaderboard_by_language.md`.
 
-Snapshot examples:
+Arabic
 
-Spanish
-
-| Rank | Model | Mean | Std (judges) | # Judges |
-|-----:|-------|-----:|-------------:|---------:|
-| 1 | GPT-5 (medium reasoning) | 8.794 | 0.434 | 5 |
-| 2 | Claude Opus 4.1 (no reasoning) | 8.743 | 0.430 | 5 |
-| 3 | Grok 4 | 8.680 | 0.458 | 5 |
+| Rank | Model | Mean | # Judges |
+|-----:|-------|-----:|---------:|
+| 1 | GPT-5 (medium reasoning) | 8.688 | 5 |
+| 2 | Claude Opus 4.1 (no reasoning) | 8.616 | 5 |
+| 3 | Gemini 2.5 Pro | 8.566 | 5 |
 
 Chinese
 
-| Rank | Model | Mean | Std (judges) | # Judges |
-|-----:|-------|-----:|-------------:|---------:|
-| 1 | GPT-5 (medium reasoning) | 8.672 | 0.477 | 5 |
-| 2 | Claude Opus 4.1 (no reasoning) | 8.651 | 0.468 | 5 |
-| 3 | Grok 4 | 8.634 | 0.435 | 5 |
+| Rank | Model | Mean | # Judges |
+|-----:|-------|-----:|---------:|
+| 1 | GPT-5 (medium reasoning) | 8.672 | 5 |
+| 2 | Claude Opus 4.1 (no reasoning) | 8.651 | 5 |
+| 3 | Grok 4 | 8.634 | 5 |
+
+Spanish
+
+| Rank | Model | Mean | # Judges |
+|-----:|-------|-----:|---------:|
+| 1 | GPT-5 (medium reasoning) | 8.794 | 5 |
+| 2 | Claude Opus 4.1 (no reasoning) | 8.743 | 5 |
+| 3 | Grok 4 | 8.680 | 5 |
+
+Hindi
+
+| Rank | Model | Mean | # Judges |
+|-----:|-------|-----:|---------:|
+| 1 | GPT-5 (medium reasoning) | 8.731 | 5 |
+| 2 | Claude Opus 4.1 (no reasoning) | 8.676 | 5 |
+| 3 | Gemini 2.5 Pro | 8.579 | 5 |
+
+Russian
+
+| Rank | Model | Mean | # Judges |
+|-----:|-------|-----:|---------:|
+| 1 | GPT-5 (medium reasoning) | 8.706 | 5 |
+| 2 | Claude Opus 4.1 (no reasoning) | 8.647 | 5 |
+| 3 | Grok 4 | 8.635 | 5 |
+
+Japanese
+
+| Rank | Model | Mean | # Judges |
+|-----:|-------|-----:|---------:|
+| 1 | Grok 4 | 8.703 | 5 |
+| 2 | GPT-5 (medium reasoning) | 8.678 | 5 |
+| 3 | Claude Opus 4.1 (no reasoning) | 8.670 | 5 |
+
+Korean
+
+| Rank | Model | Mean | # Judges |
+|-----:|-------|-----:|---------:|
+| 1 | GPT-5 (medium reasoning) | 8.655 | 5 |
+| 2 | Grok 4 | 8.614 | 5 |
+| 3 | Claude Opus 4.1 (no reasoning) | 8.612 | 5 |
+
+Polish
+
+| Rank | Model | Mean | # Judges |
+|-----:|-------|-----:|---------:|
+| 1 | GPT-5 (medium reasoning) | 8.720 | 5 |
+| 2 | Claude Opus 4.1 (no reasoning) | 8.637 | 5 |
+| 3 | Grok 4 | 8.636 | 5 |
+
+Turkish
+
+| Rank | Model | Mean | # Judges |
+|-----:|-------|-----:|---------:|
+| 1 | GPT-5 (medium reasoning) | 8.680 | 5 |
+| 2 | Grok 4 | 8.605 | 5 |
+| 3 | Claude Opus 4.1 (no reasoning) | 8.578 | 5 |
+
+Swahili
+
+| Rank | Model | Mean | # Judges |
+|-----:|-------|-----:|---------:|
+| 1 | GPT-5 (medium reasoning) | 8.573 | 5 |
+| 2 | Gemini 2.5 Pro | 8.346 | 5 |
+| 3 | Grok 4 | 8.220 | 5 |
 
 ## Normalized View
 
@@ -156,6 +215,19 @@ Failure‑model excerpt (GPT‑5 — Chinese):
 - Mixed‑language leakage in structured sections; headings/bullets left in Chinese in back‑translation.
 - Tone/imagery flattening and metaphor drift (poetic language becomes literal; metaphor swaps).
 - Domain term substitution (legal/technical terms normalized to near neighbors; scope changes).
+
+Example rationale quotes (selected across models/languages):
+
+- Model deepseek‑reasoner — Arabic: “Multiple critical meaning reversals (e.g., "nods" becomes "shakes his head") make key character interactions nonsensical and contradict the original narrative.”
+- Model deepseek‑reasoner — Arabic: “The back‑translation fundamentally misidentifies the "wheeled lunar rover" as a "winged asteroid probe," a major factual error, though most other technical details are preserved.”
+- Model deepseek‑reasoner — Arabic: “Contains untranslated words and major meaning errors ("metronome" to "mazurka," "on my knees" to "on her lap"), corrupting key images and memories in the original narrative.”
+- Model deepseek‑reasoner — Arabic: “Loses specific football jargon, reverses a key instruction (“jump it” → “jump on him”), and renders the final motivational line nonsensical (“every quick enemy”).”
+- Model qwen‑3‑max‑preview — Chinese: “Several normative shifts (SHOULD→must) and minor terminology changes (“intermediaries”→“middleware”) alter strength of requirements and tone.”
+- Model qwen‑3‑max‑preview — Chinese: “Repeatedly narrows ‘hearing/minute order’ to ‘trial/trial minute,’ altering scope; minor phrasing shifts in examples and directives.”
+- Model qwen‑3‑max‑preview — Chinese: “Specific branding language in the taglines is paraphrased or altered, losing key terms like "Consciously" and the direct "sole/soul" pun.”
+- Model qwen‑3‑max‑preview — Chinese: “Recurring shifts from ‘late afternoon/dusk’ to ‘evening/twilight,’ and sign wording changes alter motifs, specificity, and tone.”
+- Model qwen‑3‑max‑preview — Arabic: “The meaning is preserved well, but there are many lexical substitutions and a few minor shifts, like changing the partner's pronoun from gender‑neutral "their" to masculine "his".”
+- Model qwen‑3‑max‑preview — Arabic: “The translation alters several specific details, such as 'Good afternoon' to 'Good evening,' 'bodega' to 'small shop,' and 'business partner' to 'coworker,' losing some nuance.”
 
 ## What’s Measured
 
