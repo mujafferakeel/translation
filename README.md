@@ -34,6 +34,8 @@ Overall winner share across all languages
 
 Per‑language leaderboards (zoom) and distributions (strip plots):
 
+Full tables for each language are generated under `reports/`. See the index: `reports/leaderboard_by_language.md`.
+
 ### Per‑language charts — zoomed leaderboards + strip plots
 
 Arabic — leaderboard (zoom) and strip plot
@@ -44,6 +46,14 @@ Arabic — leaderboard (zoom) and strip plot
 
 ![Arabic Winner Pie](images/translation_winner_pie_lang_Arabic.png)
 
+#### Top Models (snapshot)
+
+| Rank | Model | Mean | # Judges |
+|-----:|-------|-----:|---------:|
+| 1 | GPT-5 (medium reasoning) | 8.688 | 5 |
+| 2 | Claude Opus 4.1 (no reasoning) | 8.616 | 5 |
+| 3 | Gemini 2.5 Pro | 8.566 | 5 |
+
 Chinese — leaderboard (zoom) and strip plot
 
 ![Chinese Leaderboard (zoom)](images/translation_leaderboard_lang_zh_zoom.png)
@@ -51,6 +61,14 @@ Chinese — leaderboard (zoom) and strip plot
 ![Chinese Strip](images/translation_strip_lang_zh.png)
 
 ![Chinese Winner Pie](images/translation_winner_pie_lang_Chinese.png)
+
+#### Top Models (snapshot)
+
+| Rank | Model | Mean | # Judges |
+|-----:|-------|-----:|---------:|
+| 1 | GPT-5 (medium reasoning) | 8.672 | 5 |
+| 2 | Claude Opus 4.1 (no reasoning) | 8.651 | 5 |
+| 3 | Grok 4 | 8.634 | 5 |
 
 Spanish — leaderboard (zoom) and strip plot
 
@@ -60,6 +78,14 @@ Spanish — leaderboard (zoom) and strip plot
 
 ![Spanish Winner Pie](images/translation_winner_pie_lang_Spanish.png)
 
+#### Top Models (snapshot)
+
+| Rank | Model | Mean | # Judges |
+|-----:|-------|-----:|---------:|
+| 1 | GPT-5 (medium reasoning) | 8.794 | 5 |
+| 2 | Claude Opus 4.1 (no reasoning) | 8.743 | 5 |
+| 3 | Grok 4 | 8.680 | 5 |
+
 Hindi — leaderboard (zoom) and strip plot
 
 ![Hindi Leaderboard (zoom)](images/translation_leaderboard_lang_hi_zoom.png)
@@ -67,6 +93,14 @@ Hindi — leaderboard (zoom) and strip plot
 ![Hindi Strip](images/translation_strip_lang_hi.png)
 
 ![Hindi Winner Pie](images/translation_winner_pie_lang_Hindi.png)
+
+#### Top Models (snapshot)
+
+| Rank | Model | Mean | # Judges |
+|-----:|-------|-----:|---------:|
+| 1 | GPT-5 (medium reasoning) | 8.731 | 5 |
+| 2 | Claude Opus 4.1 (no reasoning) | 8.676 | 5 |
+| 3 | Gemini 2.5 Pro | 8.579 | 5 |
 
 Russian — leaderboard (zoom) and strip plot
 
@@ -76,6 +110,14 @@ Russian — leaderboard (zoom) and strip plot
 
 ![Russian Winner Pie](images/translation_winner_pie_lang_Russian.png)
 
+#### Top Models (snapshot)
+
+| Rank | Model | Mean | # Judges |
+|-----:|-------|-----:|---------:|
+| 1 | GPT-5 (medium reasoning) | 8.706 | 5 |
+| 2 | Claude Opus 4.1 (no reasoning) | 8.647 | 5 |
+| 3 | Grok 4 | 8.635 | 5 |
+
 Japanese — leaderboard (zoom) and strip plot
 
 ![Japanese Leaderboard (zoom)](images/translation_leaderboard_lang_ja_zoom.png)
@@ -83,6 +125,14 @@ Japanese — leaderboard (zoom) and strip plot
 ![Japanese Strip](images/translation_strip_lang_ja.png)
 
 ![Japanese Winner Pie](images/translation_winner_pie_lang_Japanese.png)
+
+#### Top Models (snapshot)
+
+| Rank | Model | Mean | # Judges |
+|-----:|-------|-----:|---------:|
+| 1 | Grok 4 | 8.703 | 5 |
+| 2 | GPT-5 (medium reasoning) | 8.678 | 5 |
+| 3 | Claude Opus 4.1 (no reasoning) | 8.670 | 5 |
 
 Korean — leaderboard (zoom) and strip plot
 
@@ -92,6 +142,14 @@ Korean — leaderboard (zoom) and strip plot
 
 ![Korean Winner Pie](images/translation_winner_pie_lang_Korean.png)
 
+#### Top Models (snapshot)
+
+| Rank | Model | Mean | # Judges |
+|-----:|-------|-----:|---------:|
+| 1 | GPT-5 (medium reasoning) | 8.655 | 5 |
+| 2 | Grok 4 | 8.614 | 5 |
+| 3 | Claude Opus 4.1 (no reasoning) | 8.612 | 5 |
+
 Polish — leaderboard (zoom) and strip plot
 
 ![Polish Leaderboard (zoom)](images/translation_leaderboard_lang_pl_zoom.png)
@@ -99,6 +157,14 @@ Polish — leaderboard (zoom) and strip plot
 ![Polish Strip](images/translation_strip_lang_pl.png)
 
 ![Polish Winner Pie](images/translation_winner_pie_lang_Polish.png)
+
+#### Top Models (snapshot)
+
+| Rank | Model | Mean | # Judges |
+|-----:|-------|-----:|---------:|
+| 1 | GPT-5 (medium reasoning) | 8.720 | 5 |
+| 2 | Claude Opus 4.1 (no reasoning) | 8.637 | 5 |
+| 3 | Grok 4 | 8.636 | 5 |
 
 Turkish — leaderboard (zoom) and strip plot
 
@@ -108,6 +174,14 @@ Turkish — leaderboard (zoom) and strip plot
 
 ![Turkish Winner Pie](images/translation_winner_pie_lang_Turkish.png)
 
+#### Top Models (snapshot)
+
+| Rank | Model | Mean | # Judges |
+|-----:|-------|-----:|---------:|
+| 1 | GPT-5 (medium reasoning) | 8.680 | 5 |
+| 2 | Grok 4 | 8.605 | 5 |
+| 3 | Claude Opus 4.1 (no reasoning) | 8.578 | 5 |
+
 Swahili — leaderboard (zoom) and strip plot
 
 ![Swahili Leaderboard (zoom)](images/translation_leaderboard_lang_sw_zoom.png)
@@ -116,83 +190,7 @@ Swahili — leaderboard (zoom) and strip plot
 
 ![Swahili Winner Pie](images/translation_winner_pie_lang_Swahili.png)
 
-### Per‑Language Leaderboards (Tables)
-
-Full tables for each language are generated under `reports/`. See the index: `reports/leaderboard_by_language.md`.
-
-Arabic
-
-| Rank | Model | Mean | # Judges |
-|-----:|-------|-----:|---------:|
-| 1 | GPT-5 (medium reasoning) | 8.688 | 5 |
-| 2 | Claude Opus 4.1 (no reasoning) | 8.616 | 5 |
-| 3 | Gemini 2.5 Pro | 8.566 | 5 |
-
-Chinese
-
-| Rank | Model | Mean | # Judges |
-|-----:|-------|-----:|---------:|
-| 1 | GPT-5 (medium reasoning) | 8.672 | 5 |
-| 2 | Claude Opus 4.1 (no reasoning) | 8.651 | 5 |
-| 3 | Grok 4 | 8.634 | 5 |
-
-Spanish
-
-| Rank | Model | Mean | # Judges |
-|-----:|-------|-----:|---------:|
-| 1 | GPT-5 (medium reasoning) | 8.794 | 5 |
-| 2 | Claude Opus 4.1 (no reasoning) | 8.743 | 5 |
-| 3 | Grok 4 | 8.680 | 5 |
-
-Hindi
-
-| Rank | Model | Mean | # Judges |
-|-----:|-------|-----:|---------:|
-| 1 | GPT-5 (medium reasoning) | 8.731 | 5 |
-| 2 | Claude Opus 4.1 (no reasoning) | 8.676 | 5 |
-| 3 | Gemini 2.5 Pro | 8.579 | 5 |
-
-Russian
-
-| Rank | Model | Mean | # Judges |
-|-----:|-------|-----:|---------:|
-| 1 | GPT-5 (medium reasoning) | 8.706 | 5 |
-| 2 | Claude Opus 4.1 (no reasoning) | 8.647 | 5 |
-| 3 | Grok 4 | 8.635 | 5 |
-
-Japanese
-
-| Rank | Model | Mean | # Judges |
-|-----:|-------|-----:|---------:|
-| 1 | Grok 4 | 8.703 | 5 |
-| 2 | GPT-5 (medium reasoning) | 8.678 | 5 |
-| 3 | Claude Opus 4.1 (no reasoning) | 8.670 | 5 |
-
-Korean
-
-| Rank | Model | Mean | # Judges |
-|-----:|-------|-----:|---------:|
-| 1 | GPT-5 (medium reasoning) | 8.655 | 5 |
-| 2 | Grok 4 | 8.614 | 5 |
-| 3 | Claude Opus 4.1 (no reasoning) | 8.612 | 5 |
-
-Polish
-
-| Rank | Model | Mean | # Judges |
-|-----:|-------|-----:|---------:|
-| 1 | GPT-5 (medium reasoning) | 8.720 | 5 |
-| 2 | Claude Opus 4.1 (no reasoning) | 8.637 | 5 |
-| 3 | Grok 4 | 8.636 | 5 |
-
-Turkish
-
-| Rank | Model | Mean | # Judges |
-|-----:|-------|-----:|---------:|
-| 1 | GPT-5 (medium reasoning) | 8.680 | 5 |
-| 2 | Grok 4 | 8.605 | 5 |
-| 3 | Claude Opus 4.1 (no reasoning) | 8.578 | 5 |
-
-Swahili
+#### Top Models (snapshot)
 
 | Rank | Model | Mean | # Judges |
 |-----:|-------|-----:|---------:|
