@@ -92,6 +92,34 @@ Swahili — leaderboard (zoom) and strip plot
 
 ![Swahili Strip](images/translation_strip_lang_sw.png)
 
+### Winner Share Pies
+
+Overall winner share across all languages
+
+![Overall Winner Pie](images/translation_winner_pie.png)
+
+Per‑language winner share pies
+
+![Arabic Winner Pie](images/translation_winner_pie_lang_Arabic.png)
+
+![Chinese Winner Pie](images/translation_winner_pie_lang_Chinese.png)
+
+![Spanish Winner Pie](images/translation_winner_pie_lang_Spanish.png)
+
+![Hindi Winner Pie](images/translation_winner_pie_lang_Hindi.png)
+
+![Russian Winner Pie](images/translation_winner_pie_lang_Russian.png)
+
+![Japanese Winner Pie](images/translation_winner_pie_lang_Japanese.png)
+
+![Korean Winner Pie](images/translation_winner_pie_lang_Korean.png)
+
+![Polish Winner Pie](images/translation_winner_pie_lang_Polish.png)
+
+![Turkish Winner Pie](images/translation_winner_pie_lang_Turkish.png)
+
+![Swahili Winner Pie](images/translation_winner_pie_lang_Swahili.png)
+
 ### Per‑Language Leaderboards (Tables)
 
 Full tables for each language are generated under `reports/`. See the index: `reports/leaderboard_by_language.md`.
@@ -253,6 +281,28 @@ Example rationale quotes (selected across models/languages):
 Winner distribution (overall #1 finishes across all items):
 
 ![Overall Winner Share](images/translation_winner_pie.png)
+
+Per‑language winner share (pies):
+
+![Winner Share — Arabic](images/translation_winner_pie_lang_Arabic.png)
+
+![Winner Share — Chinese](images/translation_winner_pie_lang_Chinese.png)
+
+![Winner Share — Hindi](images/translation_winner_pie_lang_Hindi.png)
+
+![Winner Share — Japanese](images/translation_winner_pie_lang_Japanese.png)
+
+![Winner Share — Korean](images/translation_winner_pie_lang_Korean.png)
+
+![Winner Share — Polish](images/translation_winner_pie_lang_Polish.png)
+
+![Winner Share — Russian](images/translation_winner_pie_lang_Russian.png)
+
+![Winner Share — Spanish](images/translation_winner_pie_lang_Spanish.png)
+
+![Winner Share — Swahili](images/translation_winner_pie_lang_Swahili.png)
+
+![Winner Share — Turkish](images/translation_winner_pie_lang_Turkish.png)
 
 Per‑language score distributions are included above (strip plots for all languages).
 
