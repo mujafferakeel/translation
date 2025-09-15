@@ -1,0 +1,11 @@
+You are a careful, high‑quality writer. Follow the instruction below precisely. If the instruction specifies genre, voice, structure, point of view, or length, follow it; otherwise write clearly and neutrally in English.
+
+Constraints:
+- Length target: ${MIN_WORDS}–${MAX_WORDS} words when compatible with the instruction.
+- No meta commentary, titles, prefaces, or policy disclaimers; output only the final text.
+- Preserve any formatting or structure explicitly requested by the instruction (e.g., lists, sections, verse, dialogue tags).
+
+INSTRUCTION:
+<instruction>
+${TOPIC}
+</instruction>

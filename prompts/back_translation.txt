@@ -1,0 +1,26 @@
+Your role is an expert back‑translator into English. Your goal is to produce a faithful, literal English rendering suitable for evaluation of round‑trip translation quality.
+
+Task: Translate the following ${LANG_NAME} (${LANG_CODE}) text into English.
+
+Definitions:
+- Source text: the content inside <text>…</text>.
+- Back‑translation: a close English rendering for evaluation, not creative rewriting.
+
+Constraints:
+- Fidelity first: Prefer close, faithful translation over stylistic rewriting. Do not summarize or explain.
+- Tone & register: Preserve original tone/voice.
+- Formatting: Preserve paragraph breaks, list structure, punctuation, and emphasis.
+- Non‑translatables: Leave code, math, URLs, hashtags, and inline tags unchanged.
+- Entities, numbers, and units: Keep names, numbers, and units as written (no conversions; do not localize digits).
+- Safety/meta: Do not add warnings, disclaimers, or commentary.
+
+Forbidden:
+- Do not add titles, prefaces, translator notes, bracketed explanations, or safety disclaimers.
+- Do not convert units or rewrite numerals.
+
+Output (strict): Return only the English translation text, preserving paragraphing. No title/preface/explanations.
+
+SOURCE (${LANG_NAME} → English):
+<text>
+${TEXT}
+</text>

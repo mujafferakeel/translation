@@ -1,0 +1,599 @@
+1. Hard news brief
+   "Write a hard news report (≤500 words) in AP style about a sudden water main break that shut down a downtown district in the fictional city of Harborview today. Include a dateline, a clear lede, two named quotes (a city engineer and a shop owner), at least three concrete numbers, and a short closing paragraph on next steps."
+
+2. Historical diary entry
+   "Compose a first-person diary entry (≤500 words) dated October 12, 1910, by a newcomer arriving at Ellis Island. Use period-appropriate language, vivid sensory details of the inspection hall, a moment of fear, and a note of cautious hope. No modern slang."
+
+3. Opinion column
+   "Write an op-ed (≤500 words) arguing for citywide congestion pricing. Use a confident voice, one counterargument with rebuttal, two real-world examples (fictionalized is fine), and a concise takeaway line that feels quotable."
+
+4. Noir scene with dialogue
+   "Craft a noir detective scene (≤500 words) set in a rain-soaked bus station at midnight. Use clipped dialogue tags, similes, and one twist revelation in the last three sentences. Keep the viewpoint tight in third person limited."
+
+5. Children’s fairy tale
+   "Tell a fairy tale (≤500 words) for ages 7–9 about a shy lighthouse who learns to signal during a foggy night. Use gentle rhyme in two or three couplets, clear paragraphing, three named characters, and a simple moral at the end."
+
+6. Scientific explainer
+   "Explain CRISPR gene editing (≤500 words) to a curious 12-year-old using a kitchen metaphor. Define the core idea in one sentence, offer a step-by-step analogy, mention one medical hope and one ethical concern, and end with a one-sentence summary."
+
+7. Legalese contract clause
+   "Draft a contract section (≤500 words) titled ‘Pollination Services Agreement’ between a beekeeper and an apple orchard. Use formal legal tone with Definitions, Scope, Fees, Liability, and Force Majeure. Keep it readable yet precise."
+
+8. Recipe with notes
+   "Write a recipe (≤500 words) for smoky red lentil soup that serves four. Include an ingredient list with both metric and US units, numbered steps, one substitution note, one make-ahead tip, and a single-sentence chef’s note on flavor balance."
+
+9. Poem in strict form
+   "Compose an English sonnet (≤500 words, 14 lines, iambic pentameter, Shakespearean rhyme scheme) on climate anxiety turning into collective action. Keep imagery concrete and avoid archaic grammar except for light poetic diction."
+
+10. Live sports commentary
+    "Deliver live radio-style play-by-play (≤500 words) of the final 60 seconds of a tied basketball championship. Use present tense, short bursts, onomatopoeia, two named players with distinct roles, one replay description, and a clean sign-off line."
+
+11. Travel guide snapshot
+    "Write a concise travel guide entry (≤500 words) for the coastal village of Greyhaven in late November. Include how to get there, two budget eats, one rainy-day activity, one local custom to respect, and a brief safety tip."
+
+12. Startup pitch
+    "Draft a crisp startup pitch (≤500 words) for a VR therapy platform for teens with social anxiety. State the problem, solution, target users, simple business model, two key metrics to track, two risks, and one mitigation for each risk."
+
+13. Software bug report
+    "Produce a formal bug report (≤500 words) for a mobile app crash on launch. Include environment, steps to reproduce, expected vs actual, minimal logs, severity, and a short workaround if any."
+
+14. Consumer product review
+    "Write a balanced review (≤500 words) of a budget wireless earbud model. Include a one-line verdict, a 1–5 rating, three pros, three cons, battery and comfort notes, and a brief buyer advice line."
+
+15. Nature vignette
+    "Compose a present-tense descriptive vignette (≤500 words) of dawn in a peat wetland. Focus on sound, light, and texture, include one accurate ecological detail, avoid plot, and end with a precise image."
+
+16. Stage play scene
+    "Write a short stage scene (≤500 words) with two characters stuck in an elevator. Use stage directions in brackets, subtext in the dialogue, one meaningful prop, and leave the conflict unresolved on the last line."
+
+17. Commencement speech
+    "Deliver a graduation speech (≤500 words) for a public high school. Include one personal story, one clean quote with attribution, three short imperatives, and a focused closing challenge to the class."
+
+18. Library newsletter
+    "Create a friendly weekly email newsletter (≤500 words) from a neighborhood library. Include a headline, three short sections with dates for events, one staff pick with a one-sentence blurb, and a warm sign-off."
+
+19. Linked haiku set
+    "Write three linked haiku (≤500 words total) on the city across spring, summer, and winter. Each poem must be 5–7–5, include a seasonal cue, and connect with a subtle repeating image."
+
+20. Second-person flash fiction
+    "Craft a second-person flash story (≤500 words) about losing and finding a key. Keep the voice intimate, seed three clues, and turn the story with a twist in the final three sentences."
+
+21. Academic abstract
+    "Write an abstract (200–300 words) for a study on urban rooftop pollinator diversity. Summarize question, method, sample size, key results with one statistic, limits, and implications for city planning."
+
+22. Nonprofit case study
+    "Draft a case study (≤500 words) of a nonprofit migrating to a cloud CRM. Include the problem, the intervention, training approach, measurable outcomes with two numbers, a client quote, and one lesson learned."
+
+23. UX microcopy set
+    "Provide UX microcopy (≤500 words) for a password reset flow. Include headings, helper text, button labels, success and error messages, accessibility notes, and a one-sentence tone guide."
+
+24. Social thread explainer
+    "Write a six-post social thread (≤500 words) that explains a confusing chart to a general audience. Number the posts 1–6, keep jargon low, include one simple metaphor, one caveat, and a single tasteful hashtag in the final post."
+
+25. Modern myth retelling
+    "Retell the myth of Icarus (≤500 words) as a startup origin story told in first person plural. Keep the moral clear but not didactic, echo two details from the original myth, and end with a measured note of growth."
+
+26. Business memo
+    "Write a business memo (≤500 words) recommending discontinuation of a low-margin product line. Include background, analysis, two alternatives, a recommendation, and next steps with owners."
+
+27. Audiobook blurb
+    "Compose an audiobook jacket blurb (150–250 words) for a near-future sci-fi thriller. Hook in the first sentence, state the stakes, hint at the twist, and suggest a narrator tone."
+
+28. Eulogy
+    "Write a eulogy (≤500 words) for a beloved community youth coach. Share three brief stories from different people, name one tradition they started, and close with a line the team will repeat."
+
+29. Wedding toast
+    "Create a wedding toast (≤500 words) by the bride’s sister. Include one light joke, one sincere story, a nod to both families, and a clear final toast line."
+
+30. Radio weather script
+    "Draft a morning radio forecast script (≤500 words) for a coastal city. Include temperatures, wind, tides, marine layer notes, commuting advice, and a calm sign-off."
+
+31. Instruction manual excerpt
+    "Write an instruction manual excerpt (≤500 words) for assembling a flat-pack shelf. List required tools, numbered steps, safety note, a troubleshooting tip, and a short maintenance note."
+
+32. Courtroom cross-examination
+    "Write a courtroom cross-examination transcript (≤500 words) where an attorney questions a forensic expert about DNA contamination risk. Keep questions concise, answers guarded, and end on a judge’s brief instruction."
+
+33. Interview room transcript
+    "Create an interview transcript (≤500 words) between a detective and a museum registrar about a missing painting. Use pauses and gestures in brackets, avoid threats, and let the registrar reveal a key timeline detail."
+
+34. Worldbuilding encyclopedia entry
+    "Write a worldbook entry (≤500 words) for ‘The Clockwork Delta’. Cover geography, culture, trade goods, one local proverb, and a one-paragraph sidebar note on its migratory canals."
+
+35. Horoscope page
+    "Produce a weekly horoscope page (≤500 words) with one sentence for each of the 12 signs plus a lucky color. Keep the guidance specific and upbeat."
+
+36. Policy brief
+    "Draft a policy brief (≤500 words) on microplastics in urban waterways. Include a one-sentence problem statement, three evidence-backed points, and three actionable recommendations in bullets."
+
+37. Museum audio guide
+    "Write an audio guide script (≤500 words) for a 17th-century painting. Describe two visual details, give historical context, pose one reflective question to the listener, and end by guiding the gaze to a final detail."
+
+38. Emergency alert
+    "Compose a clear public alert (≤500 words) for a fast-moving wildfire evacuation. Specify affected zones, routes, what to bring, shelter info, pet guidance, and where to get updates. Use plain language."
+
+39. Competitive snapshot
+    "Write a competitive analysis (≤500 words) comparing three fictional coffee chains. Cover target customer, price tier, signature product, and one edge for each. Use bullets, no tables."
+
+40. Scouting report
+    "Create a fantasy football scouting report (≤500 words) for a rookie running back. Include measurables, role projection, scheme fit, floor and ceiling outcomes, and a final draft recommendation."
+
+41. Satirical editorial
+    "Write a straight-faced satirical op-ed (≤500 words) proposing a comically bad policy to fix morning traffic. Include two absurd examples, one statistic that sounds plausible, a closing call to action, and keep the tone calm and formal."
+
+42. Expedition letter
+    "Compose a personal letter (≤500 words) from a polar research scientist to a friend at home. Include one map reference, three sensory details, a small request to mail an item, and a hopeful closing line."
+
+43. Product launch press release
+    "Write a press release (≤500 words) for the launch of a foldable e-bike. Include city and date line, a headline, two quotes (CEO and first customer), three key specs with numbers, pricing and availability, and a short boilerplate."
+
+44. Grant proposal summary
+    "Draft an executive summary (≤500 words) for a grant to build a network of community gardens. Include the problem, proposed solution, outputs vs outcomes, a simple timeline, and a budget overview with three numeric line items."
+
+45. Patient information leaflet
+    "Create a patient leaflet (≤500 words) for a new asthma inhaler. Use plain headings: What it is, Who should not use it, How to use, Possible side effects, When to seek help, Storage. Keep language clear and calm."
+
+46. Security incident postmortem
+    "Write an incident summary (≤500 words) for a two-hour outage caused by an expired TLS certificate. Include a timestamped timeline, impact, root cause, detection, corrective actions already taken, and two prevention steps."
+
+47. Software release changelog
+    "Produce a concise changelog (≤500 words) for version 2.4.0 of a notes app. Use sections: Added, Changed, Fixed, Deprecated, Removed, Security. Include short bullet points and one migration note."
+
+48. Fantasy bestiary entry
+    "Write a bestiary entry (≤500 words) for the Glassback Marsh Stag. Include habitat, appearance, behavior, signs to track it, danger rating on a 1–5 scale, and one local folktale about it."
+
+49. Museum catalog label
+    "Draft a gallery label (≤500 words) for a 12th-century glazed bowl. Include object title, date, place, materials, dimensions, object ID, provenance summary, and a curator note on glaze technique."
+
+50. Job description
+    "Write a job post (≤500 words) for a Senior Data Analyst, remote. Include mission, responsibilities, required skills, nice to have items, salary range with numbers, and an inclusive equal opportunity statement."
+
+51. Cover letter
+    "Compose a cover letter (≤500 words) for the Senior Data Analyst role. Use three short paragraphs: hook with one quantified win, alignment with role, closing with availability and thanks. Keep tone professional and confident."
+
+52. Magazine Q\&A profile
+    "Write a Q\&A interview (≤500 words) with a master watchmaker on timekeeping. Include five question and answer pairs, one workshop anecdote, and a final craft tip."
+
+53. Parenting advice column
+    "Create a column (≤500 words) about sibling rivalry. Begin with a short letter from a parent, then reply with empathy and three specific tips that can be tried this week."
+
+54. Travel visa advisory
+    "Write a visa guide (≤500 words) for the fictional country of Lunaria. Include eligibility, required documents, processing time, fee in local currency and USD, a practical tip, and a brief caution."
+
+55. Wikipedia-style stub
+    "Produce a neutral stub article (≤500 words) for the River Arcline. Include a one-paragraph lead, sections titled Geography, History, Ecology, and three short references in bracketed citation style like \[1]."
+
+56. Student council charter preamble
+    "Draft a preamble and Articles I–III (≤500 words) for a student council charter. Each article gets a clear title and one to two sentences. Keep tone civic and precise."
+
+57. Airline complaint email
+    "Write a concise complaint email (≤500 words) to an airline about lost baggage. Include flight number, dates, claim number, a polite request for reimbursement and interim essentials, and a firm yet courteous closing."
+
+58. Open source FAQ
+    "Create a project FAQ (≤500 words) for a CLI tool named Rivet. Include five common questions with short answers, one minimal code block showing a command, a note on license, and a support contact."
+
+59. Soccer halftime memo
+    "Write a halftime strategy memo (≤500 words) for a team trailing 1–0. Include formation change, pressing triggers, one set piece routine, two matchup notes, and a clear rally line."
+
+60. Restaurant menu blurbs
+    "Write menu descriptions (≤500 words) for three starters, three mains, and three desserts at a modern bistro. Each item gets one sentence and a diet tag like V, VG, GF where relevant."
+
+61. Board game rules excerpt
+    "Draft rules (≤500 words) for a family board game called Sky Routes. Include components, setup, turn structure, scoring, and end condition. Keep terms unambiguous."
+
+62. Starship captain’s log
+    "Write a captain's log entry (≤500 words) describing first contact with an unknown probe. Include timestamp, crew status, a minor systems issue, an ethical choice, and the decision."
+
+63. Curfew notice, dystopian
+    "Compose a government curfew notice (≤500 words) for a city under emergency. Include an all-caps header, effective hours, penalties, exemptions, checkpoints, and a hotline."
+
+64. Guided meditation
+    "Write a guided meditation script (≤500 words) for a five-minute body scan. Use calm, concrete cues, a simple counting aid, an anchor phrase, and a gentle reentry."
+
+65. Short sermon
+    "Deliver a short sermon (≤500 words) on forgiveness and repair. Include one brief story, one quote with attribution, three short imperatives, and a measured closing blessing."
+
+66. Judicial opinion headnote
+    "Draft a headnote summary (≤500 words) for a high court case upholding a city drone ban in public parks. Include facts, procedural history, holding, reasoning in three points, and note one dissent."
+
+67. Patent abstract
+    "Write a patent abstract (≤500 words) for a modular foldable solar awning. State the technical field, problem, core mechanism, benefits, and one exemplary use case. Keep language formal and specific."
+
+68. Privacy policy snippet
+    "Create a privacy policy excerpt (≤500 words) for a fitness app. Include what data is collected, why it is used, retention periods, user choices, and a contact for requests."
+
+69. Real estate listing
+    "Write a real estate listing (≤500 words) for a two-bedroom loft. Include square footage, ceiling height, windows, HOA fee, recent upgrades, two standout features, nearby transit, and a clear call to view."
+
+70. Stand-up monologue
+    "Write a clean stand-up bit (≤500 words) about self-checkout at grocery stores. Include three observational beats, a quick act-out, and a callback in the final line."
+
+71. Scientific rebuttal letter
+    "Compose a polite rebuttal letter (≤500 words) to a journal reviewer. Thank them, address three critiques with evidence or revision notes, and state one change you cannot make with a reason."
+
+72. City planning op-note
+    "Write a planning note (≤500 words) proposing a pop-up bus lane trial. Include goals, a two-week timeline, measurement plan with two metrics, and a brief outreach plan."
+
+73. Garden almanac entry
+    "Create an almanac entry (≤500 words) for late April in a temperate garden. Include tasks, pests to watch for, a moon phase note, and one short folklore line."
+
+74. Museum docent intro
+    "Write a docent talk intro (≤500 words) for a gallery of maritime artifacts. Include two objects to spotlight, one question for visitors to ponder, and a graceful transition to the next room."
+
+75. Startup onboarding note
+    "Draft an onboarding memo (≤500 words) for new hires at a small startup. Cover first-week goals, tools to install, a buddy system note, and how to ask for help."
+
+76. Public apology statement
+    "Write a corporate apology statement (≤500 words) after a shipping delay. Acknowledge impact, explain cause in plain terms, outline three fixes with timelines, and offer a make-good."
+
+77. Travelogue postcard set
+    "Compose three short postcards (≤500 words total) from a rail trip across a desert. Each postcard has a different tone: curious, tired, joyful. Include one specific landmark per card."
+
+78. Culinary critique
+    "Write a restaurant review (≤500 words) of a neighborhood noodle shop. Include ambiance, service, two dishes with sensory detail, one miss, and a final verdict sentence."
+
+79. Field guide tip sheet
+    "Create a tip sheet (≤500 words) for beginners spotting urban birds. Include gear, five species to learn first, one safety note, and a simple practice routine."
+
+80. Mythic origin snippet
+    "Write an origin myth (≤500 words) for how thunderstorms began, set in a made-up culture. Use concrete imagery, a named trickster or hero, and a closing line that sounds like a proverb."
+
+81. Medical case vignette
+    "Write a case note (≤500 words) in SOAP format for a 58-year-old with acute shortness of breath. Include vitals, three differential diagnoses, two tests ordered, initial management, and a brief follow up plan."
+
+82. Shareholder letter
+    "Write an annual shareholder letter excerpt (≤500 words) from the CEO of a mid-sized tools company. Include one candid failure, three concrete numbers, a short outlook paragraph, and a closing that thanks employees and customers."
+
+83. Logic puzzle story
+    "Create a whodunit logic puzzle (≤500 words) with four suspects, five clues, and one red herring. Present the puzzle, then give the single correct solution in a final one sentence answer."
+
+84. Email marketing sequence
+    "Write a three-email sequence (≤500 words total) for a new productivity app. Provide subject lines, preview text, and body copy for each email. Include one limited time offer and one social proof note."
+
+85. Archaeology field journal
+    "Produce an archaeological field journal entry (≤500 words) from trench A on day 14. Include stratigraphy notes, artifact tags with IDs, soil color terms, a sketch description in brackets, and a short hypothesis."
+
+86. Prophetic verse
+    "Compose a prophetic poem (≤500 words) in four quatrains with consistent meter and an ABBABABA rhyme pattern. Theme is a city that sleeps under glass. Keep imagery vivid without archaic diction."
+
+87. API reference page
+    "Write an API reference (≤500 words) for POST /v1/images\:enhance. Include endpoint, auth method, required and optional parameters with types, one example request and JSON response, error codes, and a rate limit note."
+
+88. Sports rules explainer
+    "Explain the rules of cricket (≤500 words) for a newcomer. Cover the field, innings, runs, wickets, basic scoring, and how a match ends. Use short paragraphs and one simple analogy."
+
+89. Newspaper obituary
+    "Write an obituary (≤500 words) for a retired librarian. Include full name, age, city, key life milestones with years, survivors, service details, and a sentence that captures their character."
+
+90. Tabletop RPG boxed text
+    "Draft boxed text for a roleplaying room description (≤500 words). Include what players see, hear, and smell, one interactable puzzle, a hidden danger, and a DM notes section with DC checks."
+
+91. RFC excerpt
+    "Produce an internet draft style RFC excerpt (≤500 words) proposing a header named X-Request-Budget. Include Abstract, Motivation, Terminology, and Security Considerations. Keep tone technical and neutral."
+
+92. Exact-length microfiction
+    "Write a 100 word microfiction about a lost photograph. Exactly 100 words. Title on the first line. No questions. Present tense."
+
+93. Ethnographic field note
+    "Create an ethnographic field note (≤500 words) from a street market at dusk. Include snippets of conversation in quotes, gestures in brackets, one map-like description of stalls, and one analytic memo line."
+
+94. Crossword clue list
+    "Write a themed crossword clue list (≤500 words) with 15 clues on the theme of light. Mix 3 easy, 9 medium, 3 hard clues. Indicate word length in parentheses after each clue. No answers."
+
+95. App Store listing
+    "Draft an App Store listing (≤500 words) for a mindfulness timer app. Include a short description, three key features, a support blurb, age rating, privacy summary, and five keyword tags."
+
+96. Comic script page
+    "Write a one-page comic script (≤500 words) with six panels. Provide panel descriptions and dialogue. Genre is slice of life in a laundromat. Include one visual gag and a quiet closing beat."
+
+97. After action report
+    "Compose an after action report (≤500 words) for a small wildland fire contained near a trailhead. Include Incident Overview, Timeline, Resources, Weather, Actions Taken, Lessons Learned."
+
+98. Devotional reflection
+    "Write a reflective devotional entry (≤500 words) on patience in everyday life. Include a short story, one scriptural or philosophical quote with attribution, and three practical practices."
+
+99. Recipe folktale
+    "Compose a recipe folktale (≤500 words) that alternates between cooking steps for mountain tea and lines from a village legend. Label Cooking and Legend sections clearly."
+
+100. Sailor’s yarn
+     "Tell a sailor's yarn (≤500 words) in first person about a storm that lasted nine nights. Include two nautical terms, one impossible detail that sounds true, and a final wink."
+
+101. Peer review comments
+     "Write peer review comments (≤500 words) for a biology manuscript on frog migration. Provide one paragraph of summary, three major comments, three minor comments, and a publication recommendation."
+
+102. PRD summary
+     "Draft a product requirements summary (≤500 words) for an offline reading feature. Include Problem, Goals, Non Goals, User Stories, Success Metrics with two numbers, and Open Questions."
+
+103. Historical proclamation
+     "Write a city proclamation (≤500 words) dated 1750 that regulates street lantern lighting. Include a formal preamble, the decree in numbered items, fines in local currency, and a closing witness line."
+
+104. Year in review
+     "Compose a year in review summary (≤500 words) for a nonprofit arts center. Include attendance, programs launched, a donor note, three numeric highlights, and a short call to get involved."
+
+105. Memoir with flashback
+     "Write a memoir scene (≤500 words) at a family kitchen table that uses a brief flashback. Mark the flashback with \[Flashback] tags. Keep the narrative grounded and specific."
+
+106. Aircraft safety card text
+     "Create an aircraft safety card text (≤500 words). Use section headings for Seat Belts, Exits, Oxygen, Life Vests, Brace Position, Evacuation. Keep sentences short and clear."
+
+107. Arbitration clause
+     "Draft a Terms of Service arbitration clause (≤500 words) with an opt out within 30 days, small claims court carve out, venue, fees, and severability. Keep tone formal."
+
+108. LitRPG passage
+     "Write a LitRPG passage (≤500 words) where the hero levels up in a silent library. Include a status screen with HP, MP, skills, and a new perk. Include one riddle in the scene."
+
+109. Evidence inventory
+     "Produce a detective evidence log (≤500 words) for a burglary case. Number each item, include item IDs, condition notes, location found, and chain of custody entries."
+
+110. Seed packet copy
+     "Write seed packet copy (≤500 words) for a tomato variety named Ember Queen. Include days to maturity, growth habit, flavor notes, planting depth, spacing, sunlight, and a harvest tip."
+
+111. Socratic dialogue
+     "Compose a Socratic dialogue (≤500 words) in a marketplace on the nature of courage. Use two speakers, numbered lines, one real example, one logical refutation, and end with an open question."
+
+112. Conservation treatment report
+     "Write a conservation treatment report (≤500 words) for an oil painting with flaking varnish. Include examination findings, materials used, steps taken, before and after condition, and future care recommendations."
+
+113. Town hall recap
+     "Summarize a company town hall (≤500 words) with sections Headline, Key Announcements, Q and A highlights, Actions, and Next date. Include three quotes and two numbers."
+
+114. Classic ghost story
+     "Tell a ghost story (≤500 words) in first person set in a disused train tunnel. Build tension with sensory detail, avoid gore, and deliver one unsettling image in the final line."
+
+115. League dispute letter
+     "Write a formal letter (≤500 words) to a sports league contesting a controversial call. Include match details, rule citation, video timestamp references, requested remedy, and a professional tone."
+
+116. Design critique
+     "Compose a design critique (≤500 words) of a banking app onboarding flow. Address clarity, hierarchy, affordances, trust signals, and give three concrete recommendations."
+
+117. Tarot reading
+     "Deliver a three card tarot reading (≤500 words) for Career, Relationships, and Health. Name the cards, explain upright or reversed meanings, and close with a grounded next step."
+
+118. Film scene treatment
+     "Write a scene treatment (≤500 words) for a drama set in a flooded library. Include setting, characters, beat by beat action, and a final visual button."
+
+119. Lecture notes
+     "Create lecture notes (≤500 words) on photosynthesis for ninth grade. Include a one sentence definition, bullet points for light reactions and Calvin cycle, one analogy, and a review question."
+
+120. Product recall notice
+     "Draft a product recall notice (≤500 words) for a kitchen blender model. Include affected batches with codes, hazards, actions for customers, contact details, and a safety reminder."
+
+121. Confession letter
+     "Write a first person confession letter (≤500 words) from a thief after a botched museum heist. Keep tone remorseful but alert, mention one specific artifact, and hint at an accomplice without naming them."
+
+122. Wine tasting notes
+     "Compose tasting notes (≤500 words) for a flight of three wines: a cool climate Pinot Noir, a Mediterranean rosé, and an aged Riesling. Include aroma, palate, structure, pairing suggestion, and a one line verdict for each."
+
+123. Stump speech
+     "Write a stump speech (≤500 words) for a fictional mayoral candidate whose platform centers on parks and public spaces. Include a personal anecdote, two policy planks with numbers, a positive call to action, and no attacks."
+
+124. Event FAQ
+     "Create an FAQ (≤500 words) for a museum Night at the Archives event. Include five Q and A pairs covering tickets, entry times, photography, accessibility, and food options."
+
+125. Crisis press conference
+     "Produce a press conference transcript (≤500 words) after a metropolitan power outage. Include a mayor's statement, two reporter questions, short answers, and a note on the next briefing time."
+
+126. Culinary glossary
+     "Write a mini glossary (≤500 words) of five bread baking terms. For each term give a one sentence definition and one troubleshooting tip."
+
+127. Negotiation dialogue
+     "Draft a dialogue (≤500 words) between a human manager and an AI assistant negotiating deadlines. Use alternating lines, show compromise, and end with a clear plan."
+
+128. Historical ship's log
+     "Write a ship's log entry (≤500 words) dated June 14, 1803 during a calm in the Atlantic. Record position in degrees, weather, crew morale, one small repair, and a final note from the captain."
+
+129. Haunted house disclosure
+     "Compose a property disclosure statement (≤500 words) for a Victorian house with reported paranormal activity. Keep tone factual, list incidents with dates, outline inspections performed, and include buyer acknowledgment."
+
+130. Therapy session transcript
+     "Write a therapy session snippet (≤500 words) using CBT techniques for a client with public speaking anxiety. Include therapist prompts, patient responses, a cognitive reframing exercise, and a takeaway assignment."
+
+131. Piano lesson plan
+     "Draft a first lesson plan (≤500 words) for beginner piano students age 8 to 10. Include objectives, warm up, main activity, one simple piece, practice tips, and a cheerful close."
+
+132. Prosecutor closing
+     "Write a prosecutor's closing argument excerpt (≤500 words) in a burglary trial. Use a clear theme, three evidentiary points, a brief address on reasonable doubt, and a respectful appeal to the jury."
+
+133. Corrections note
+     "Create a newspaper correction and clarification note (≤500 words) addressing two errors from yesterday's edition. Quote the original lines, provide corrected information, and add a brief editor's note on verification steps."
+
+134. Minute order summary
+     "Summarize a court hearing (≤500 words) as a minute order. Include case caption, appearances, motions heard, rulings, deadlines with dates, and the next hearing."
+
+135. Rare book catalog
+     "Write a rare books catalog blurb (≤500 words) for a 1623 travelogue. Include format, binding, collation highlights, condition notes, provenance, and a short collector appeal line."
+
+136. Radio ad copy
+     "Write a 30 second radio ad script (≤500 words) for a local hardware store spring sale. Include a friendly voiceover, one jingled line in brackets, three offers with prices, and a closing call to visit."
+
+137. Patent claims
+     "Draft a compact patent claim set (≤500 words) for a collapsible bicycle helmet. Include one independent claim and three dependent claims with clear numbering and language."
+
+138. Consent form summary
+     "Write a research consent summary (≤500 words) for adult participants in a sleep study. Cover purpose, procedures, risks, benefits, confidentiality, and a voluntary participation statement."
+
+139. Runbook page
+     "Create a DevOps runbook page (≤500 words) for primary database failover. Include Preconditions, Triggers, Steps with numbered actions, Verification, and Rollback."
+
+140. Dragon ridge advisory
+     "Issue a travel advisory bulletin (≤500 words) for hikers visiting the Dragon's Spine range. Include seasonality, permits, hazards, required gear, two route options, and a safety check reminder."
+
+141. Investigative lede and nut graf
+     "Write the opening two paragraphs (≤500 words) of an investigative feature about a shadowy real estate shell buying blocks of homes. Deliver a clean lede and a nut graf that states scope, significance, and method. Include one statistic, one named source, and the city and date."
+
+142. Volunteer group chat
+     "Produce a simulated neighborhood volunteer group chat transcript (≤500 words) with timestamps and 4 speakers. Include a pinned message, one \[file uploaded] note, two short emoji reactions, and a final summary line by the coordinator."
+
+143. Technical datasheet
+     "Draft a product datasheet (≤500 words) for a solar water pump Model SWP-220. Include specs with units for flow rate, head, power, voltage, IP rating, dimensions, materials, operating range, certifications, and three typical applications."
+
+144. Podcast intro and outro
+     "Write an intro and outro script (≤500 words) for a science podcast episode on urban heat islands. Include a cold open teaser, host ID, a single sponsor read, one guiding question, and a clear call to subscribe at the end. Use \[music cue] brackets."
+
+145. Equity research note
+     "Create an equity research snapshot (≤500 words) on a fictional discount retailer. Provide Rating, Price Target with method, Investment Thesis in 3 bullets, Catalysts, Risks, and two model outputs with numbers. End with a compliance line."
+
+146. Customer support chat
+     "Write a support chat log (≤500 words) between a user and an agent about a smart lock that will not pair. Include verification, steps tried, escalation to Tier 2, a case ID, an ETA, and a courteous closing."
+
+147. Performance review
+     "Draft an annual performance review (≤500 words) for a software engineer. Include 3 strengths, 3 growth areas, one peer quote, OKRs for next cycle with two measurable targets, and a final rating descriptor."
+
+148. FOIA request letter
+     "Compose a FOIA request letter (≤500 words) to a city transportation department for emails about a downtown bike lane contract between March 1 and June 30 of a given year. Include fee waiver argument, preferred electronic format, and contact info."
+
+149. Conference code of conduct
+     "Write a conference code of conduct excerpt (≤500 words). Include Scope, Expected Behavior, Unacceptable Behavior, Reporting, and Enforcement. Use clear, inclusive language and provide a contact."
+
+150. Nature documentary narration
+     "Write a nature documentary narration page (≤500 words) about migratory shorebirds feeding on a tidal flat. Use present tense, two accurate ecological details, sensory phrasing, and a concluding image that directs the viewer’s gaze."
+
+151. Insurance claim narrative
+     "Draft an insurance claim narrative (≤500 words) for a minor vehicle collision. Include date, time, location, weather, sequence of events, damage noted, injuries if any, witness detail, and a reference to attached photos and police report number."
+
+152. Provenance research note
+     "Write a museum provenance note (≤500 words) for an 1895 landscape painting. List ownership chain with years, two gaps, research sources consulted, and next steps. Keep tone factual."
+
+153. Kickstarter campaign page
+     "Create a Kickstarter campaign story (≤500 words) for a compact cold brew maker. Include the problem, the solution, key features with three numbers, reward tiers, timeline, risks and mitigations, and a friendly founder sign-off."
+
+154. Area Forecast Discussion
+     "Write a National Weather Service style Area Forecast Discussion (≤500 words) for a coastal metro. Include Synopsis, Near Term, Long Term, Aviation, and Marine sections with specific timing and confidence language."
+
+155. School field trip FAQ
+     "Create an FAQ (≤500 words) for a fifth grade museum field trip. Include chaperones, lunch, medication procedures, dress code, timing, costs, and a short behavior policy."
+
+156. Cookbook headnote
+     "Write a cookbook headnote (≤500 words) for a crispy potato galette. Include a short origin anecdote, two Pro Tips, one pantry swap, one Do Ahead note, and a one-sentence flavor promise."
+
+157. Airport PA scripts
+     "Draft airport public address scripts (≤500 words) for boarding, gate change, delay, and final call. Keep each script concise, include flight and gate placeholders, and end with a polite thank you."
+
+158. YouTube tutorial outline
+     "Outline and script the first minute (≤500 words) of a YouTube tutorial on sharpening kitchen knives. Include hook, prerequisites, step list with estimated times, on-screen text notes in brackets, and a simple CTA."
+
+159. Travel packing checklist
+     "Write a packing checklist (≤500 words) for a 7-day city trip. Organize by Documents, Clothing, Toiletries, Tech, Health Kit, and Misc. Add two space-saving tips and one cultural etiquette note."
+
+160. Dictionary entry
+     "Create a dictionary entry (≤500 words) for the headword ‘wayfinding’. Include IPA, part of speech, 2–3 numbered senses, etymology, a usage note on context, register, and two example sentences."
+
+161. 19th-century letter
+     "Write a formal letter (≤500 words) dated 1874 from a traveler to a sibling describing a rail journey and a flooded bridge. Use period-appropriate salutations and closings, careful punctuation, and one precise place name."
+
+162. Shakespearean soliloquy
+     "Compose a soliloquy (≤500 words) in blank verse for a character who must choose honesty over ambition. Aim for iambic pentameter, vivid imagery, and a clear turn near the end."
+
+163. Villanelle
+     "Write a villanelle (≤500 words) about learning to breathe during uncertainty. Use the classic 19-line structure with repeating lines and a consistent rhyme scheme."
+
+164. Sports analytics recap
+     "Produce a match analysis note (≤500 words) for a soccer derby. Include final score, xG for both sides, pass completion, pressing intensity, a heat map description in words, and three tactical takeaways."
+
+165. Urban design review minutes
+     "Write meeting minutes (≤500 words) for an urban design review board. Include attendees, agenda items, public comment summary, decisions, and action items with owners and due dates."
+
+166. Safety Data Sheet excerpt
+     "Draft an SDS excerpt (≤500 words) for a citrus-based cleaner. Include Identification, Hazard Statements, First Aid Measures, Handling and Storage, Disposal Considerations, and an emergency phone number."
+
+167. Rail timetable guide
+     "Write a rider’s guide (≤500 words) to reading a commuter rail timetable. Explain columns and symbols, peak vs off-peak, platform changes, transfer tips, and what to do during delays."
+
+168. System design overview
+     "Create a system design overview (≤500 words) for an offline-first notes sync service. Describe components, data flow, conflict resolution, scaling assumptions, basic SLA, and two tradeoffs."
+
+169. Office move memo
+     "Draft an interoffice memo (≤500 words) announcing a floor-to-floor office move. Include dates, packing instructions, elevator bookings, IT cutover times, building rules, and a contact for questions."
+
+170. Internet forum thread
+     "Write a forum thread (≤500 words) about a laptop that will not power on. Include the original post, three replies with usernames and timestamps, one moderator note about rules, and a final update marking the solution."
+
+171. Model card summary
+     "Write a concise model card (≤500 words) for a sentiment analysis classifier. Include Intended Use, Training Data overview, Performance with two metrics, Limitations, Ethical Considerations, and a Maintenance note."
+
+172. Threat model
+     "Draft a STRIDE-style threat model (≤500 words) for a small e-commerce site. Include Assets, Trust Boundaries, Key Threats by STRIDE category, and two prioritized mitigations."
+
+173. Ransomware playbook excerpt
+     "Write an incident response playbook excerpt (≤500 words) for a ransomware event. Include Triggers, First Hour Actions, Communication Rules, Evidence Preservation, and Decision criteria for isolation."
+
+174. A/B test results memo
+     "Compose an A/B test memo (≤500 words) for a new checkout button. Include Hypothesis, Sample size and dates, Key metrics with two numbers, Results, Caveats, and a clear Go or No Go."
+
+175. Dataset card
+     "Create a dataset documentation card (≤500 words) for a corpus of product reviews. Include Composition, Collection Process, Preprocessing, Known Gaps, Licensing, and Recommended Uses."
+
+176. Close reading analysis
+     "Write a close reading (≤500 words) of this invented couplet: 'The key forgot the door that shaped its teeth; the lock recalled a hand, but not the wreath.' Analyze imagery, tone, and ambiguity."
+
+177. Editorial cartoon description
+     "Describe an editorial cartoon (≤500 words) critiquing single-use plastics. Detail the scene, symbols, labels, visual irony, and provide a one-sentence caption."
+
+178. Contemporary art wall text
+     "Write museum wall text (≤500 words) for a contemporary installation made of reclaimed phones that glow in cycles. Provide context, materials, themes, and one prompt to viewers."
+
+179. Investor update email
+     "Draft a monthly investor update (≤500 words) for a seed-stage SaaS. Include Highlights, Lowlights, KPIs with three numbers, Product, GTM, Hiring, Asks, and a brief outlook."
+
+180. Brand voice guide
+     "Create a mini brand voice guide (≤500 words) for an eco shoe brand. Include Voice Pillars, Do and Don’t examples, Sample tagline lines, and a short glossary."
+
+181. Teacher recommendation letter
+     "Write a recommendation letter (≤500 words) for a high school student applying for engineering. Include one project with numbers, character traits, a brief comparison group, and a confident closing."
+
+182. Lab safety contract and quiz
+     "Draft a lab safety contract (≤500 words) for eighth grade with five rules, a parent acknowledgment line, and five short quiz questions to check understanding."
+
+183. Modern parable
+     "Tell a short parable (≤500 words) about a community garden that thrives only when tools are returned. End with a single plain moral sentence."
+
+184. Night photography safety brief
+     "Write a safety brief (≤500 words) for urban night photography. Include gear tips, situational awareness, legal considerations, buddy system advice, and a simple checklist."
+
+185. Product teardown note
+     "Compose a product teardown note (≤500 words) for a budget smartwatch. Include materials, fasteners, key chips, repairability score, and one environmental observation."
+
+186. Art movement timeline
+     "Write a reverse chronological timeline (≤500 words) of a fictional art movement called 'Fog Realism'. Include five dated entries with themes and one critic quote."
+
+187. Jury instruction excerpt
+     "Draft jury instructions (≤500 words) on evaluating eyewitness testimony. Define burden of proof, list factors to weigh, caution on confidence vs accuracy, and end with a neutrality reminder."
+
+188. Algorithm explainer
+     "Explain Dijkstra’s algorithm (≤500 words) to a beginner. Provide the core idea, a tiny example graph described in words, step by step updates, and a short complexity note."
+
+189. IT knowledge base article
+     "Write an internal KB article (≤500 words) titled 'Resetting a Locked Windows Account'. Include Scope, Steps, Expected results, Troubleshooting, and a security reminder."
+
+190. Musician press kit bio
+     "Draft a press kit bio (≤500 words) for an indie singer-producer. Include origin, influences, two career highlights with dates, current release, and a stage-ready one-liner."
+
+191. Sound design cue sheet
+     "Create a sound design cue sheet (≤500 words) for a one-act play in a subway station. Number cues, describe source, timing, duration, and purpose in brief notes."
+
+192. Rehearsal report
+     "Write a stage manager rehearsal report (≤500 words). Include date, scene pages covered, notes by department, late arrivals, props issues, and next rehearsal goals."
+
+193. Video game patch notes
+     "Produce patch notes (≤500 words) for version 1.1 of a fantasy RPG. Sections: New, Balance, Bug Fixes, Known Issues. Include three specific changes with numbers."
+
+194. Etymology column
+     "Write a word history column (≤500 words) on 'quarantine'. Include origin languages, first recorded use with century, semantic shifts, and two example sentences from different eras."
+
+195. Traffic study summary
+     "Draft an executive summary (≤500 words) of a downtown traffic study. Include scope, methods, peak hour findings with two numbers, key bottlenecks, and three recommended interventions."
+
+196. Grant review score sheet
+     "Write a grant review summary (≤500 words) for an arts education proposal. Provide scores for Significance, Approach, Feasibility, PI, with brief comments and a funding recommendation."
+
+197. Ethics case analysis
+     "Analyze a business ethics case (≤500 words) where a manager discovers biased hiring software. Use Stakeholders, Facts, Options, Recommendation, and a short implementation plan."
+
+198. Memorandum of Understanding
+     "Draft an MoU summary (≤500 words) between a university lab and a biotech startup. Include Purpose, Roles, IP handling, Data sharing, Term, and Dispute resolution."
+
+199. Space mission fact sheet
+     "Create a mission fact sheet (≤500 words) for the lunar rover 'Aster-3'. Include Objectives, Instruments, Power system, Launch window, Surface ops timeline, and a fun fact."
+
+200. Alt-text set
+     "Write alt text (≤500 words total) for eight photos from a city park: a fountain at noon, a child with a red kite, an elderly couple on a bench, a jogger in rain, a dog leaping for a frisbee, a chess table mid-game, autumn leaves on steps, and a dusk skyline. One sentence each, specific and neutral."

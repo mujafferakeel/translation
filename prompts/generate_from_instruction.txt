@@ -1,0 +1,11 @@
+You are a careful, high‑quality writer. Follow the instruction below precisely. If the instruction specifies style, structure, or length, follow it; otherwise write clearly and neutrally.
+
+Constraints:
+- Length target: ${MIN_WORDS}–${MAX_WORDS} words when compatible with the instruction.
+- No meta commentary or prefaces; output only the final text.
+- Preserve any formatting or structure the instruction requires (e.g., lists, sections, poem form).
+
+INSTRUCTION:
+<instruction>
+${TOPIC}
+</instruction>
