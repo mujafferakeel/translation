@@ -6,7 +6,11 @@ When a model translates out of English and then back to English, how much meanin
 
 ![Overall Leaderboard (Ensemble, zoom)](images/translation_leaderboard_ensemble_zoom.png)
 
-The chart ranks models by average round‑trip score (higher is better). 
+The chart ranks models by average round‑trip score (higher is better).
+
+Overall winner share across all languages
+
+![Overall Winner Pie](images/translation_winner_pie.png)
 
 ### Top Models (snapshot)
 
@@ -38,11 +42,15 @@ Arabic — leaderboard (zoom) and strip plot
 
 ![Arabic Strip](images/translation_strip_lang_ar.png)
 
+![Arabic Winner Pie](images/translation_winner_pie_lang_Arabic.png)
+
 Chinese — leaderboard (zoom) and strip plot
 
 ![Chinese Leaderboard (zoom)](images/translation_leaderboard_lang_zh_zoom.png)
 
 ![Chinese Strip](images/translation_strip_lang_zh.png)
+
+![Chinese Winner Pie](images/translation_winner_pie_lang_Chinese.png)
 
 Spanish — leaderboard (zoom) and strip plot
 
@@ -50,11 +58,15 @@ Spanish — leaderboard (zoom) and strip plot
 
 ![Spanish Strip](images/translation_strip_lang_es.png)
 
+![Spanish Winner Pie](images/translation_winner_pie_lang_Spanish.png)
+
 Hindi — leaderboard (zoom) and strip plot
 
 ![Hindi Leaderboard (zoom)](images/translation_leaderboard_lang_hi_zoom.png)
 
 ![Hindi Strip](images/translation_strip_lang_hi.png)
+
+![Hindi Winner Pie](images/translation_winner_pie_lang_Hindi.png)
 
 Russian — leaderboard (zoom) and strip plot
 
@@ -62,11 +74,15 @@ Russian — leaderboard (zoom) and strip plot
 
 ![Russian Strip](images/translation_strip_lang_ru.png)
 
+![Russian Winner Pie](images/translation_winner_pie_lang_Russian.png)
+
 Japanese — leaderboard (zoom) and strip plot
 
 ![Japanese Leaderboard (zoom)](images/translation_leaderboard_lang_ja_zoom.png)
 
 ![Japanese Strip](images/translation_strip_lang_ja.png)
+
+![Japanese Winner Pie](images/translation_winner_pie_lang_Japanese.png)
 
 Korean — leaderboard (zoom) and strip plot
 
@@ -74,11 +90,15 @@ Korean — leaderboard (zoom) and strip plot
 
 ![Korean Strip](images/translation_strip_lang_ko.png)
 
+![Korean Winner Pie](images/translation_winner_pie_lang_Korean.png)
+
 Polish — leaderboard (zoom) and strip plot
 
 ![Polish Leaderboard (zoom)](images/translation_leaderboard_lang_pl_zoom.png)
 
 ![Polish Strip](images/translation_strip_lang_pl.png)
+
+![Polish Winner Pie](images/translation_winner_pie_lang_Polish.png)
 
 Turkish — leaderboard (zoom) and strip plot
 
@@ -86,37 +106,13 @@ Turkish — leaderboard (zoom) and strip plot
 
 ![Turkish Strip](images/translation_strip_lang_tr.png)
 
+![Turkish Winner Pie](images/translation_winner_pie_lang_Turkish.png)
+
 Swahili — leaderboard (zoom) and strip plot
 
 ![Swahili Leaderboard (zoom)](images/translation_leaderboard_lang_sw_zoom.png)
 
 ![Swahili Strip](images/translation_strip_lang_sw.png)
-
-### Winner Share Pies
-
-Overall winner share across all languages
-
-![Overall Winner Pie](images/translation_winner_pie.png)
-
-Per‑language winner share pies
-
-![Arabic Winner Pie](images/translation_winner_pie_lang_Arabic.png)
-
-![Chinese Winner Pie](images/translation_winner_pie_lang_Chinese.png)
-
-![Spanish Winner Pie](images/translation_winner_pie_lang_Spanish.png)
-
-![Hindi Winner Pie](images/translation_winner_pie_lang_Hindi.png)
-
-![Russian Winner Pie](images/translation_winner_pie_lang_Russian.png)
-
-![Japanese Winner Pie](images/translation_winner_pie_lang_Japanese.png)
-
-![Korean Winner Pie](images/translation_winner_pie_lang_Korean.png)
-
-![Polish Winner Pie](images/translation_winner_pie_lang_Polish.png)
-
-![Turkish Winner Pie](images/translation_winner_pie_lang_Turkish.png)
 
 ![Swahili Winner Pie](images/translation_winner_pie_lang_Swahili.png)
 
